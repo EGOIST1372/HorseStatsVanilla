@@ -40,7 +40,7 @@ dependencies {
 
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 	modApi "com.terraformersmc:modmenu:11.0.1"
-	modImplementation include("io.github.cottonmc:LibGui-14.0.0+1.21.6")
+	modImplementation include("https://github.com/CottonMC/LibGui/releases/download/14.0.0/LibGui-14.0.0+1.21.6.jar")
 	modApi include ("me.shedaniel.cloth:cloth-config-fabric:19.0.147")
 }
 
